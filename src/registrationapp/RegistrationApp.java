@@ -7,6 +7,9 @@ public class RegistrationApp {
     {
             //class instantiation
             RegisterFrame rf=new RegisterFrame();
+            
+            //output
+            System.out.println("Helo world");
     }
     
 }
